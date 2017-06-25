@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/DandD.dir/main.cpp.o CMakeFiles/DandD.dir/Weapon.cpp.o CMakeFiles/DandD.dir/GameCharacter.cpp.o CMakeFiles/DandD.dir/Die.cpp.o  -o DandD 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Abstraction_Inheritance.dir/main.cpp.o CMakeFiles/Abstraction_Inheritance.dir/Pet.cpp.o CMakeFiles/Abstraction_Inheritance.dir/Dog.cpp.o CMakeFiles/Abstraction_Inheritance.dir/Cat.cpp.o CMakeFiles/Abstraction_Inheritance.dir/Mouse.cpp.o  -o Abstraction_Inheritance 

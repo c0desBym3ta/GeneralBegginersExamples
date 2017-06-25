@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/AdapterExample.dir/main.cpp.o CMakeFiles/AdapterExample.dir/Sprite.cpp.o CMakeFiles/AdapterExample.dir/Text.cpp.o CMakeFiles/AdapterExample.dir/TextShapeAdapter.cpp.o CMakeFiles/AdapterExample.dir/Tile.cpp.o  -o AdapterExample 

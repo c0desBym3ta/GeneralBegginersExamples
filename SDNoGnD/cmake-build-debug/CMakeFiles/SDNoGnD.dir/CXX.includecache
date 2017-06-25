@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/SDNoGnD/Die.cpp
+Die.h
+/root/CLionProjects/SDNoGnD/Die.h
+ctime
+-
+cstdlib
+-
+
+/root/CLionProjects/SDNoGnD/Die.h
+
+/root/CLionProjects/SDNoGnD/GameChar.cpp
+GameChar.h
+/root/CLionProjects/SDNoGnD/GameChar.h
+
+/root/CLionProjects/SDNoGnD/GameChar.h
+Weapon.h
+/root/CLionProjects/SDNoGnD/Weapon.h
+
+/root/CLionProjects/SDNoGnD/Weapon.cpp
+Weapon.h
+/root/CLionProjects/SDNoGnD/Weapon.h
+Die.h
+/root/CLionProjects/SDNoGnD/Die.h
+
+/root/CLionProjects/SDNoGnD/Weapon.h
+
+/root/CLionProjects/SDNoGnD/main.cpp
+iostream
+-
+Weapon.h
+/root/CLionProjects/SDNoGnD/Weapon.h
+GameChar.h
+/root/CLionProjects/SDNoGnD/GameChar.h
+

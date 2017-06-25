@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Dynamic_Cast.dir/main.cpp.o  -o Dynamic_Cast 

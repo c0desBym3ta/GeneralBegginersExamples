@@ -1,0 +1,6 @@
+/root/Documents/clion-2016.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/ClassesAttributesConstructor
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.7 or higher is required.  You are running version 3.6.3
+
+
+-- Configuring incomplete, errors occurred!

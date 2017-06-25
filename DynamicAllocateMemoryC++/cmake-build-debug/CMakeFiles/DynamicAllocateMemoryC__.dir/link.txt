@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/DynamicAllocateMemoryC__.dir/main.cpp.o  -o DynamicAllocateMemoryC__ 

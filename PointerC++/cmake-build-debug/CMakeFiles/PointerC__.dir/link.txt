@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/PointerC__.dir/main.cpp.o  -o PointerC__ 

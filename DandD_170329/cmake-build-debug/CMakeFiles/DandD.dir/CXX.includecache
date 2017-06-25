@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/DandD_170329/Die.cpp
+Die.h
+/root/CLionProjects/DandD_170329/Die.h
+ctime
+-
+cstdlib
+-
+
+/root/CLionProjects/DandD_170329/Die.h
+
+/root/CLionProjects/DandD_170329/GameCharacter.cpp
+GameCharacter.h
+/root/CLionProjects/DandD_170329/GameCharacter.h
+
+/root/CLionProjects/DandD_170329/GameCharacter.h
+Weapon.h
+/root/CLionProjects/DandD_170329/Weapon.h
+
+/root/CLionProjects/DandD_170329/Weapon.cpp
+Weapon.h
+/root/CLionProjects/DandD_170329/Weapon.h
+Die.h
+/root/CLionProjects/DandD_170329/Die.h
+
+/root/CLionProjects/DandD_170329/Weapon.h
+
+/root/CLionProjects/DandD_170329/main.cpp
+iostream
+-
+Weapon.h
+/root/CLionProjects/DandD_170329/Weapon.h
+GameCharacter.h
+/root/CLionProjects/DandD_170329/GameCharacter.h
+Die.h
+/root/CLionProjects/DandD_170329/Die.h
+

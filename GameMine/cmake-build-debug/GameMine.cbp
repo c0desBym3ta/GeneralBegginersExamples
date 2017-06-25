@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GameMine"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/root/CLionProjects/GameMine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/root/CLionProjects/GameMine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/root/CLionProjects/GameMine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GameMine">
+				<Option output="/root/CLionProjects/GameMine/cmake-build-debug/GameMine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/GameMine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 GameMine"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GameMine/fast">
+				<Option output="/root/CLionProjects/GameMine/cmake-build-debug/GameMine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/GameMine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 GameMine/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/root/CLionProjects/GameMine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/root/CLionProjects/GameMine/Bow.cpp">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/Bow.h">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/GameChar.cpp">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/GameChar.h">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/Knight.cpp">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/Knight.h">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/Sword.cpp">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/Sword.h">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/Weapon.cpp">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/Weapon.h">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/main.cpp">
+			<Option target="GameMine"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/GameMine/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/SDNoGnD.dir/main.cpp.o CMakeFiles/SDNoGnD.dir/GameChar.cpp.o CMakeFiles/SDNoGnD.dir/Weapon.cpp.o CMakeFiles/SDNoGnD.dir/Die.cpp.o  -o SDNoGnD 

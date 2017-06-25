@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/HelloWorldDebugCompile/greeter.cpp
+greeter.h
+/root/CLionProjects/HelloWorldDebugCompile/greeter.h
+iostream
+-
+
+/root/CLionProjects/HelloWorldDebugCompile/greeter.h
+
+/root/CLionProjects/HelloWorldDebugCompile/main.cpp
+iostream
+-
+greeter.h
+/root/CLionProjects/HelloWorldDebugCompile/greeter.h
+
